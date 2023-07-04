@@ -25,10 +25,11 @@ Selecting Sam Curran, Anrich Nortje, and Shaheen Shah Afridi: These three fast b
 
 Selecting Shadab Khan and Sikandar Raza: Shadab Khan is chosen for his consistent performance and all-round abilities, while Sikandar Raza is selected for his high strike rate and average as a number seven player.
 
-## Screenshots
-
-
-
 Considering strike rate for number six position: Ben Stokes is not selected because his strike rate is low (105), and the number six position requires a player who can score at a higher rate.
 
 Considering options for the number six position: Glenn Maxwell and Marcus Stoinis are mentioned as potential choices for the number six position due to their batting abilities and contribution to the team.
+
+## Screenshots
+
+![All rounders](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/201e4fb6-f7a5-44b5-975d-bd9db22b9082)
+
