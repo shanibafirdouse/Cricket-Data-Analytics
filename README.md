@@ -31,5 +31,4 @@ Considering options for the number six position: Glenn Maxwell and Marcus Stoini
 
 ## Screenshots
 
-![All rounders](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/201e4fb6-f7a5-44b5-975d-bd9db22b9082)
 
