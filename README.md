@@ -34,8 +34,9 @@ Considering options for the number six position: Glenn Maxwell and Marcus Stoini
 ### Power Hitters / Openers
 ![PowerHitters](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/81d0d1c9-260c-46f3-8579-3bd54c6d9b74)
 
-### Anchors
+### Anchors / Middle Orders
 ![Anchors](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/ad53e7e8-0958-4e8a-9e95-f508f50533c9)
 
-
+### Finishers
+![Finishers](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/653d691d-454a-410d-b6ae-10719b0ed131)
 
