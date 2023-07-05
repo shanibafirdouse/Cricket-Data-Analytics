@@ -31,6 +31,7 @@ Considering options for the number six position: Glenn Maxwell and Marcus Stoini
 
 ## Screenshots
 
+### Power Hitters
 ![PowerHitters](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/81d0d1c9-260c-46f3-8579-3bd54c6d9b74)
 
 
