@@ -37,6 +37,17 @@ Considering options for the number six position: Glenn Maxwell and Marcus Stoini
 ### Anchors / Middle Orders
 ![Anchors](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/ad53e7e8-0958-4e8a-9e95-f508f50533c9)
 
-### Finishers
+### Finishers / Lower Order Anchor
 ![Finishers](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/653d691d-454a-410d-b6ae-10719b0ed131)
+
+### All rounders
+![All rounders](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/dfdf727e-0ebd-4040-973c-43e2c72e0cbc)
+
+### Specialist Fast Bowlers
+![Specialist Fast Bowlers](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/d1da5feb-9795-4ee7-9c51-5bb4baafe45d)
+
+### Final 12
+![Final12](https://github.com/shanibafirdouse/Cricket-Data-Analytics/assets/85803371/47a92a91-f828-4f60-a302-ae578d19b83d)
+
+
 
